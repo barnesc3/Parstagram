@@ -23,4 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-< />
+![image](parstagram1.gif)
+![image](parstagram2.gif)
